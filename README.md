@@ -9,3 +9,4 @@ No special wire requried
 just a USB cable
 my advice? check out a reaper forum howto
 ***NO SPECIAL PLUGINS REQUIRED***
+The goal for the project is live music that doesnt suck balls right out of the door. PEACE
