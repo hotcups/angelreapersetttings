@@ -8,3 +8,4 @@ Its easy to do just screw around with it a lot.
 No special wire requried
 just a USB cable
 my advice? check out a reaper forum howto
+***NO SPECIAL PLUGINS REQUIRED***
