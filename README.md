@@ -1,6 +1,6 @@
 # Reaper Angel Moog simulator settings  
 This is designed for the M-Audio M-Track
-you that and a regular sound card for this to work.
+you need that and a regular sound card for this to work.
 First use pulse audio.
 Cotrol the feeds so that each device is at its own station 
 otherwise you'll get major feedback. 
