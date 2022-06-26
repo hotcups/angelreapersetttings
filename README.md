@@ -11,3 +11,5 @@ my advice? check out a reaper forum howto
 ***NO SPECIAL PLUGINS REQUIRED***
 The goal for the project is live music that doesnt suck balls right out of the door.
 Completed on June 25th 4:31 PM EST 2022
+
+Just an FYI the complicated version is good with short wave. Just a theory...
